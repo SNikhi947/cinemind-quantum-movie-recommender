@@ -1,0 +1,720 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;800&display=swap');
+
+:root {
+    --bg-dark: #09090b;
+    --neon-blue: #3b82f6;
+    --neon-purple: #8b5cf6;
+    --accent: #ec4899;
+    --glass: rgba(255, 255, 255, 0.03);
+    --glass-border: rgba(255, 255, 255, 0.1);
+}
+
+body {
+  animation: pageFade 0.6s ease;
+}
+
+@keyframes pageFade {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    background: radial-gradient(circle at top left, #1a1a2e, #09090b);
+    color: white;
+    min-height: 100vh;
+}
+
+.container {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Buttons */
+.btn-super {
+    background: linear-gradient(45deg, var(--neon-purple), var(--accent));
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    font-weight: 600;
+    border-radius: 30px;
+    cursor: pointer;
+    box-shadow: 0 4px 15px rgba(139, 92, 246, 0.4);
+    text-decoration: none;
+    display: inline-block;
+    transition: transform 0.2s;
+}
+
+.btn-super:hover {
+    transform: scale(1.05);
+}
+
+/* Glass Panel */
+.glass-panel {
+    background: var(--glass);
+    backdrop-filter: blur(20px);
+    border: 1px solid var(--glass-border);
+    border-radius: 24px;
+    padding: 40px;
+    margin-bottom: 30px;
+}
+
+/* Navbar */
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 40px;
+}
+
+.logo {
+    font-size: 1.8rem;
+    font-weight: 800;
+}
+
+/* Inputs */
+input[type="text"] {
+    background: rgba(0, 0, 0, 0.3);
+    border: 1px solid var(--glass-border);
+    color: #fff;
+    padding: 15px 25px;
+    width: 100%;
+    border-radius: 50px;
+    font-size: 1rem;
+    outline: none;
+}
+
+input[type="text"]:focus {
+    border-color: var(--neon-purple);
+}
+
+/* Genre Pills (Fixed Active State) */
+.genre-container {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.genre-pill {
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid var(--glass-border);
+    color: #aaa;
+    padding: 8px 20px;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.genre-pill:hover {
+    background: rgba(255, 255, 255, 0.1);
+    color: white;
+}
+
+.genre-pill.active {
+    background: var(--neon-purple);
+    color: white;
+    border-color: var(--neon-purple);
+    box-shadow: 0 0 10px var(--neon-purple);
+}
+
+/* --- CHATBOT (Compact Version) --- */
+#chatbot-icon {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background: var(--neon-purple);
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    cursor: pointer;
+    z-index: 2000;
+    box-shadow: 0 0 15px rgba(139, 92, 246, 0.6);
+}
+
+#chatbot-window {
+    display: none;
+    position: fixed;
+    bottom: 80px;
+    right: 20px;
+    width: 280px;
+    height: 350px;
+    /* Smaller Size */
+    background: #000;
+    border: 1px solid var(--neon-purple);
+    border-radius: 15px;
+    z-index: 2000;
+    flex-direction: column;
+    overflow: hidden;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.8);
+}
+
+.chat-header {
+    background: var(--neon-purple);
+    padding: 10px;
+    font-size: 0.9rem;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+}
+
+.chat-body {
+    flex: 1;
+    padding: 10px;
+    overflow-y: auto;
+    font-size: 0.8rem;
+}
+
+.chat-input {
+    display: flex;
+    border-top: 1px solid #333;
+}
+
+.chat-input input {
+    flex: 1;
+    border: none;
+    background: #111;
+    color: #fff;
+    padding: 10px;
+    outline: none;
+    font-size: 0.8rem;
+}
+
+.chat-input button {
+    background: #333;
+    color: white;
+    border: none;
+    padding: 0 15px;
+    cursor: pointer;
+    font-size: 0.8rem;
+}
+
+/* Slideshow */
+.slides-container {
+    display: flex;
+    overflow-x: auto;
+    gap: 30px;
+    padding: 20px;
+    scroll-behavior: smooth;
+}
+
+.slide-card {
+    min-width: 300px;
+    background: #18181b;
+    border-radius: 20px;
+    overflow: hidden;
+    position: relative;
+    border: 1px solid var(--glass-border);
+}
+
+.poster {
+    width: 100%;
+    height: 450px;
+    object-fit: cover;
+}
+
+.slide-info {
+    padding: 20px;
+    background: linear-gradient(to top, #000 0%, transparent 100%);
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.match-score {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    background: #ec4899;
+    padding: 5px 12px;
+    border-radius: 12px;
+    font-weight: bold;
+    font-size: 0.8rem;
+}
+.loading {
+  color: #00f7ff;
+  font-size: 18px;
+  text-align: center;
+}
+
+.movie-card {
+  background: rgba(255,255,255,0.08);
+  border-radius: 12px;
+  padding: 15px;
+  width: 250px;
+  margin: 15px;
+  color: white;
+  box-shadow: 0 0 15px rgba(0,255,255,0.2);
+}
+
+.movie-card img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.movie-card h3 {
+  margin: 10px 0 5px;
+  font-size: 18px;
+}
+
+.movie-card p {
+  font-size: 13px;
+  opacity: 0.8;
+}
+
+#results {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;800&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+/* ---------------- GLOBAL ---------------- */
+body {
+  background: #0b0f19;
+  color: #ffffff;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* ---------------- CINEMATIC BACKGROUND ---------------- */
+.bg-cinema {
+  position: fixed;
+  inset: 0;
+  background:
+    linear-gradient(to bottom, rgba(0,0,0,0.85), rgba(11,15,25,0.95)),
+    url("https://images.unsplash.com/photo-1489599849927-2ee91cede3ba");
+  background-size: cover;
+  background-position: center;
+  z-index: -2;
+}
+
+/* ---------------- INDEX / INTRO PAGE ---------------- */
+.intro-wrapper {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.intro-box {
+  padding: 60px 80px;
+  border-radius: 20px;
+  background: rgba(255,255,255,0.08);
+  backdrop-filter: blur(18px);
+  box-shadow: 0 0 60px rgba(0,255,255,0.15);
+  animation: fadeUp 1.6s ease;
+}
+
+.logo-title {
+  font-size: 4.5rem;
+  font-weight: 800;
+  letter-spacing: 4px;
+  background: linear-gradient(90deg, #00f7ff, #8b5cf6);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 0 0 30px rgba(0,255,255,0.4);
+}
+
+.logo-sub {
+  margin-top: 10px;
+  font-size: 1rem;
+  opacity: 0.8;
+  letter-spacing: 2px;
+}
+
+.enter-btn {
+  margin-top: 40px;
+  padding: 14px 45px;
+  border-radius: 50px;
+  font-size: 1rem;
+  border: none;
+  cursor: pointer;
+  color: #000;
+  background: linear-gradient(90deg, #00f7ff, #8b5cf6);
+  box-shadow: 0 0 25px rgba(0,255,255,0.4);
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.enter-btn:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 40px rgba(139,92,246,0.6);
+}
+
+/* ---------------- DASHBOARD ---------------- */
+.dashboard {
+  padding: 40px;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.dashboard h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+/* ---------------- INPUTS ---------------- */
+input[type="text"] {
+  width: 100%;
+  padding: 15px;
+  border-radius: 12px;
+  border: none;
+  outline: none;
+  font-size: 1rem;
+  background: rgba(255,255,255,0.1);
+  color: white;
+}
+
+input::placeholder {
+  color: #aaa;
+}
+
+/* ---------------- BUTTONS ---------------- */
+.btn-main {
+  padding: 12px 30px;
+  border-radius: 40px;
+  background: linear-gradient(90deg, #00f7ff, #8b5cf6);
+  border: none;
+  cursor: pointer;
+  color: black;
+  font-weight: 600;
+  box-shadow: 0 0 20px rgba(0,255,255,0.4);
+}
+
+/* ---------------- GENRE & LANGUAGE PILLS ---------------- */
+.genre-pill, .lang-pill {
+  padding: 8px 18px;
+  border-radius: 25px;
+  margin: 5px;
+  display: inline-block;
+  background: rgba(255,255,255,0.08);
+  cursor: pointer;
+  font-size: 0.85rem;
+  transition: 0.3s;
+}
+
+.genre-pill.active, .lang-pill.active {
+  background: linear-gradient(90deg, #00f7ff, #8b5cf6);
+  color: black;
+}
+
+/* ---------------- RESULTS ---------------- */
+#resultsContainer {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 30px;
+}
+
+.slide-card {
+  width: 220px;
+  background: rgba(255,255,255,0.07);
+  border-radius: 15px;
+  overflow: hidden;
+  box-shadow: 0 0 20px rgba(0,0,0,0.4);
+  transition: transform 0.3s;
+}
+
+.slide-card:hover {
+  transform: translateY(-8px);
+}
+
+.poster {
+  width: 100%;
+  height: 320px;
+  object-fit: cover;
+}
+
+.slide-info {
+  padding: 15px;
+}
+
+.match-score {
+  position: absolute;
+  background: rgba(0,0,0,0.7);
+  padding: 5px 10px;
+  font-size: 0.7rem;
+  border-radius: 20px;
+  margin: 10px;
+}
+
+/* ---------------- CHATBOT ---------------- */
+#chatbot-window {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 280px;
+  height: 380px;
+  background: rgba(20,20,30,0.95);
+  border-radius: 15px;
+  display: none;
+  flex-direction: column;
+  box-shadow: 0 0 30px rgba(0,255,255,0.3);
+}
+
+/* ---------------- ANIMATIONS ---------------- */
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(40px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.top-nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 40px;
+}
+
+.logo span {
+  font-size: 0.6rem;
+  color: #8b5cf6;
+}
+
+.dashboard-wrapper {
+  max-width: 900px;
+  margin: auto;
+  padding: 30px;
+}
+
+.section-title {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 40px;
+}
+
+.panel {
+  background: rgba(255,255,255,0.07);
+  padding: 25px;
+  border-radius: 18px;
+  margin-bottom: 25px;
+  backdrop-filter: blur(15px);
+}
+
+.panel-title {
+  margin-bottom: 15px;
+  font-size: 0.9rem;
+  opacity: 0.7;
+}
+
+.pill-group {
+  text-align: center;
+}
+
+.input-box {
+  position: relative;
+  margin-top: 15px;
+}
+
+.input-box i {
+  position: absolute;
+  right: 18px;
+  top: 15px;
+  color: #00f7ff;
+  cursor: pointer;
+}
+
+.action-panel {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.quantum-toggle {
+  display: block;
+  margin-bottom: 15px;
+  font-size: 0.85rem;
+  opacity: 0.85;
+}
+
+.run-btn {
+  padding: 14px 40px;
+  border-radius: 50px;
+  background: linear-gradient(90deg,#00f7ff,#8b5cf6);
+  border: none;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+#chatbot-icon {
+  position: fixed;
+  bottom: 25px;
+  right: 25px;
+  background: linear-gradient(90deg,#00f7ff,#8b5cf6);
+  width: 55px;
+  height: 55px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+/* ===== RESET & BODY ===== */
+body, html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    font-family: 'Poppins', sans-serif;
+    overflow-x: hidden;
+}
+
+/* ===== BACKGROUND CINEMA IMAGE ===== */
+.bg-cinema {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background: url('/static/cinema-bg.jpg') center center / cover no-repeat;
+    filter: brightness(0.5);
+    z-index: -1;
+    animation: zoomIn 30s infinite alternate;
+}
+
+/* ===== INTRO WRAPPER ===== */
+.intro-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/* ===== INTRO BOX ===== */
+.intro-box {
+    text-align: center;
+    color: #fff;
+    animation: fadeInUp 2s ease forwards;
+}
+
+.logo-title {
+    font-size: 5rem;
+    font-weight: 800;
+    letter-spacing: 5px;
+    color: #8b5cf6;
+    text-shadow: 0 0 20px rgba(139,92,246,0.7);
+    margin-bottom: 15px;
+    animation: fadeInUp 1s ease forwards;
+}
+
+.logo-sub {
+    font-size: 1.3rem;
+    margin-bottom: 30px;
+    opacity: 0.85;
+    animation: fadeInUp 1.2s ease forwards;
+}
+
+/* ===== ENTER BUTTON ===== */
+.enter-btn {
+    padding: 18px 50px;
+    font-size: 1.2rem;
+    font-weight: 600;
+    border: none;
+    border-radius: 50px;
+    background: linear-gradient(90deg,#00f7ff,#8b5cf6);
+    color: #fff;
+    cursor: pointer;
+    transition: 0.3s;
+    animation: fadeInUp 1.4s ease forwards;
+}
+
+.enter-btn:hover {
+    transform: scale(1.08);
+    opacity: 0.9;
+}
+
+/* ===== ANIMATIONS ===== */
+@keyframes fadeInUp {
+    0% { opacity: 0; transform: translateY(20px); }
+    100% { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes zoomIn {
+    0% { transform: scale(1); }
+    100% { transform: scale(1.05); }
+}
+
+/* ===== RESPONSIVE ===== */
+@media (max-width: 768px) {
+    .logo-title { font-size: 3rem; }
+    .logo-sub { font-size: 1rem; }
+    .enter-btn { padding: 15px 40px; font-size: 1rem; }
+}
+
+/* ===== LOADING OVERLAY ===== */
+#loadingOverlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.8);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 5000;
+  flex-direction: column;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s ease;
+}
+
+#loadingOverlay.active {
+  opacity: 1;
+  pointer-events: all;
+}
+
+.spinner {
+  border: 6px solid rgba(255,255,255,0.1);
+  border-top: 6px solid #00f7ff;
+  border-radius: 50%;
+  width: 80px;
+  height: 80px;
+  animation: spin 1s linear infinite;
+  margin-bottom: 20px;
+}
+
+.loading-text {
+  color: #00f7ff;
+  font-size: 1.2rem;
+  font-weight: 600;
+  text-align: center;
+  letter-spacing: 1px;
+  text-shadow: 0 0 10px #00f7ff;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}

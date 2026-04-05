@@ -1,0 +1,2147 @@
+[
+    {
+        "id": 1,
+        "title": "Kalki 2898 AD",
+        "genres": [
+            "Sci-Fi",
+            "Action"
+        ],
+        "language": "Telugu",
+        "overview": "A Telugu Sci-Fi movie titled Kalki 2898 AD. Key themes include dystopian future, mythology, vishnu avatar, war. Highly rated and popular in Telugu cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Kalki+2898+AD",
+        "trailer_url": "https://www.youtube.com/results?search_query=Kalki+2898+AD+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 2,
+        "title": "RRR",
+        "genres": [
+            "Action",
+            "Drama"
+        ],
+        "language": "Telugu",
+        "overview": "A Telugu Action movie titled RRR. Key themes include friendship, british raj, revolution, fire and water. Highly rated and popular in Telugu cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=RRR",
+        "trailer_url": "https://www.youtube.com/results?search_query=RRR+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 3,
+        "title": "Baahubali: The Beginning",
+        "genres": [
+            "Action",
+            "Fantasy"
+        ],
+        "language": "Telugu",
+        "overview": "A Telugu Action movie titled Baahubali: The Beginning. Key themes include kingdom, war, betrayal, destiny. Highly rated and popular in Telugu cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Baahubali:+The+Beginning",
+        "trailer_url": "https://www.youtube.com/results?search_query=Baahubali:+The+Beginning+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 4,
+        "title": "Baahubali 2: The Conclusion",
+        "genres": [
+            "Action",
+            "Fantasy"
+        ],
+        "language": "Telugu",
+        "overview": "A Telugu Action movie titled Baahubali 2: The Conclusion. Key themes include revenge, kingdom, mother sentiment, epic war. Highly rated and popular in Telugu cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Baahubali+2:+The+Conclusion",
+        "trailer_url": "https://www.youtube.com/results?search_query=Baahubali+2:+The+Conclusion+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 5,
+        "title": "Salaar: Part 1",
+        "genres": [
+            "Action",
+            "Crime"
+        ],
+        "language": "Telugu",
+        "overview": "A Telugu Action movie titled Salaar: Part 1. Key themes include gangster, friendship, khansaar, violence. Highly rated and popular in Telugu cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Salaar:+Part+1",
+        "trailer_url": "https://www.youtube.com/results?search_query=Salaar:+Part+1+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 6,
+        "title": "Pushpa: The Rise",
+        "genres": [
+            "Action",
+            "Drama"
+        ],
+        "language": "Telugu",
+        "overview": "A Telugu Action movie titled Pushpa: The Rise. Key themes include red sandalwood smuggling, attitude, rise to power. Highly rated and popular in Telugu cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Pushpa:+The+Rise",
+        "trailer_url": "https://www.youtube.com/results?search_query=Pushpa:+The+Rise+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 7,
+        "title": "Pushpa 2: The Rule",
+        "genres": [
+            "Action",
+            "Crime"
+        ],
+        "language": "Telugu",
+        "overview": "A Telugu Action movie titled Pushpa 2: The Rule. Key themes include syndicate rule, police conflict, revenge. Highly rated and popular in Telugu cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Pushpa+2:+The+Rule",
+        "trailer_url": "https://www.youtube.com/results?search_query=Pushpa+2:+The+Rule+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 8,
+        "title": "Rangasthalam",
+        "genres": [
+            "Action",
+            "Drama"
+        ],
+        "language": "Telugu",
+        "overview": "A Telugu Action movie titled Rangasthalam. Key themes include village politics, hearing impaired, revenge, brother sentiment. Highly rated and popular in Telugu cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Rangasthalam",
+        "trailer_url": "https://www.youtube.com/results?search_query=Rangasthalam+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 9,
+        "title": "Arjun Reddy",
+        "genres": [
+            "Romance",
+            "Drama"
+        ],
+        "language": "Telugu",
+        "overview": "A Telugu Romance movie titled Arjun Reddy. Key themes include anger management, doctor, heartbreak, self-destruction. Highly rated and popular in Telugu cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Arjun+Reddy",
+        "trailer_url": "https://www.youtube.com/results?search_query=Arjun+Reddy+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 10,
+        "title": "Jersey",
+        "genres": [
+            "Drama",
+            "Sports"
+        ],
+        "language": "Telugu",
+        "overview": "A Telugu Drama movie titled Jersey. Key themes include cricket, father son bond, late success, comeback. Highly rated and popular in Telugu cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Jersey",
+        "trailer_url": "https://www.youtube.com/results?search_query=Jersey+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 11,
+        "title": "Mahanati",
+        "genres": [
+            "Biography",
+            "Drama"
+        ],
+        "language": "Telugu",
+        "overview": "A Telugu Biography movie titled Mahanati. Key themes include actress savitri life, rise and fall, emotional. Highly rated and popular in Telugu cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Mahanati",
+        "trailer_url": "https://www.youtube.com/results?search_query=Mahanati+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 12,
+        "title": "Eega",
+        "genres": [
+            "Fantasy",
+            "Comedy"
+        ],
+        "language": "Telugu",
+        "overview": "A Telugu Fantasy movie titled Eega. Key themes include housefly revenge, reincarnation, love story, villain. Highly rated and popular in Telugu cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Eega",
+        "trailer_url": "https://www.youtube.com/results?search_query=Eega+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 13,
+        "title": "Ala Vaikunthapurramuloo",
+        "genres": [
+            "Comedy",
+            "Action"
+        ],
+        "language": "Telugu",
+        "overview": "A Telugu Comedy movie titled Ala Vaikunthapurramuloo. Key themes include middle class vs rich, swapped babies, style. Highly rated and popular in Telugu cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Ala+Vaikunthapurramuloo",
+        "trailer_url": "https://www.youtube.com/results?search_query=Ala+Vaikunthapurramuloo+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 14,
+        "title": "Magadheera",
+        "genres": [
+            "Action",
+            "Fantasy"
+        ],
+        "language": "Telugu",
+        "overview": "A Telugu Action movie titled Magadheera. Key themes include reincarnation, 400 years ago, warrior, love. Highly rated and popular in Telugu cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Magadheera",
+        "trailer_url": "https://www.youtube.com/results?search_query=Magadheera+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 15,
+        "title": "Pokiri",
+        "genres": [
+            "Action",
+            "Thriller"
+        ],
+        "language": "Telugu",
+        "overview": "A Telugu Action movie titled Pokiri. Key themes include undercover cop, mafia, gangster, twist. Highly rated and popular in Telugu cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Pokiri",
+        "trailer_url": "https://www.youtube.com/results?search_query=Pokiri+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 16,
+        "title": "Kick",
+        "genres": [
+            "Action",
+            "Comedy"
+        ],
+        "language": "Telugu",
+        "overview": "A Telugu Action movie titled Kick. Key themes include adrenaline junkie, thief, police chase, fun. Highly rated and popular in Telugu cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Kick",
+        "trailer_url": "https://www.youtube.com/results?search_query=Kick+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 17,
+        "title": "Race Gurram",
+        "genres": [
+            "Action",
+            "Comedy"
+        ],
+        "language": "Telugu",
+        "overview": "A Telugu Action movie titled Race Gurram. Key themes include brother rivalry, police, politician villain, fun. Highly rated and popular in Telugu cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Race+Gurram",
+        "trailer_url": "https://www.youtube.com/results?search_query=Race+Gurram+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 18,
+        "title": "Manam",
+        "genres": [
+            "Drama",
+            "Fantasy"
+        ],
+        "language": "Telugu",
+        "overview": "A Telugu Drama movie titled Manam. Key themes include reincarnation, 3 generations, family love, magical. Highly rated and popular in Telugu cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Manam",
+        "trailer_url": "https://www.youtube.com/results?search_query=Manam+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 19,
+        "title": "Ye Maaya Chesave",
+        "genres": [
+            "Romance",
+            "Drama"
+        ],
+        "language": "Telugu",
+        "overview": "A Telugu Romance movie titled Ye Maaya Chesave. Key themes include classic love story, religion conflict, chemistry. Highly rated and popular in Telugu cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Ye+Maaya+Chesave",
+        "trailer_url": "https://www.youtube.com/results?search_query=Ye+Maaya+Chesave+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 20,
+        "title": "Leader",
+        "genres": [
+            "Drama",
+            "Political"
+        ],
+        "language": "Telugu",
+        "overview": "A Telugu Drama movie titled Leader. Key themes include cm son, corruption, political reform, journey. Highly rated and popular in Telugu cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Leader",
+        "trailer_url": "https://www.youtube.com/results?search_query=Leader+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 21,
+        "title": "Vedam",
+        "genres": [
+            "Drama",
+            "Anthology"
+        ],
+        "language": "Telugu",
+        "overview": "A Telugu Drama movie titled Vedam. Key themes include 5 stories, terrorist attack, hospital, humanity. Highly rated and popular in Telugu cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Vedam",
+        "trailer_url": "https://www.youtube.com/results?search_query=Vedam+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 22,
+        "title": "C/o Kancharapalem",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "language": "Telugu",
+        "overview": "A Telugu Drama movie titled C/o Kancharapalem. Key themes include anthology, village life, pure love, slice of life. Highly rated and popular in Telugu cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=C/o+Kancharapalem",
+        "trailer_url": "https://www.youtube.com/results?search_query=C/o+Kancharapalem+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 23,
+        "title": "Goodachari",
+        "genres": [
+            "Thriller",
+            "Action"
+        ],
+        "language": "Telugu",
+        "overview": "A Telugu Thriller movie titled Goodachari. Key themes include spy, raw agent, father sentiment, twist. Highly rated and popular in Telugu cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Goodachari",
+        "trailer_url": "https://www.youtube.com/results?search_query=Goodachari+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 24,
+        "title": "Agent Sai Srinivasa Athreya",
+        "genres": [
+            "Thriller",
+            "Comedy"
+        ],
+        "language": "Telugu",
+        "overview": "A Telugu Thriller movie titled Agent Sai Srinivasa Athreya. Key themes include detective, dead bodies mystery, fbi, humor. Highly rated and popular in Telugu cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Agent+Sai+Srinivasa+Athreya",
+        "trailer_url": "https://www.youtube.com/results?search_query=Agent+Sai+Srinivasa+Athreya+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 25,
+        "title": "Karthikeya 2",
+        "genres": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "language": "Telugu",
+        "overview": "A Telugu Adventure movie titled Karthikeya 2. Key themes include lord krishna, mystery, dwarka, treasure hunt. Highly rated and popular in Telugu cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Karthikeya+2",
+        "trailer_url": "https://www.youtube.com/results?search_query=Karthikeya+2+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 26,
+        "title": "Hanu-Man",
+        "genres": [
+            "Action",
+            "Fantasy"
+        ],
+        "language": "Telugu",
+        "overview": "A Telugu Action movie titled Hanu-Man. Key themes include superhero, lord hanuman, village savior, powers. Highly rated and popular in Telugu cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Hanu-Man",
+        "trailer_url": "https://www.youtube.com/results?search_query=Hanu-Man+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 27,
+        "title": "Baby",
+        "genres": [
+            "Romance",
+            "Drama"
+        ],
+        "language": "Telugu",
+        "overview": "A Telugu Romance movie titled Baby. Key themes include first love, betrayal, college, emotional pain. Highly rated and popular in Telugu cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Baby",
+        "trailer_url": "https://www.youtube.com/results?search_query=Baby+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 28,
+        "title": "Hi Nanna",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "language": "Telugu",
+        "overview": "A Telugu Drama movie titled Hi Nanna. Key themes include single father, daughter, memory loss, emotional. Highly rated and popular in Telugu cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Hi+Nanna",
+        "trailer_url": "https://www.youtube.com/results?search_query=Hi+Nanna+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 29,
+        "title": "Sita Ramam",
+        "genres": [
+            "Romance",
+            "Drama"
+        ],
+        "language": "Telugu",
+        "overview": "A Telugu Romance movie titled Sita Ramam. Key themes include letter, soldier, princess, war, poetic love. Highly rated and popular in Telugu cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Sita+Ramam",
+        "trailer_url": "https://www.youtube.com/results?search_query=Sita+Ramam+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 30,
+        "title": "Dasara",
+        "genres": [
+            "Action",
+            "Drama"
+        ],
+        "language": "Telugu",
+        "overview": "A Telugu Action movie titled Dasara. Key themes include coal mines, friendship, village politics, raw. Highly rated and popular in Telugu cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Dasara",
+        "trailer_url": "https://www.youtube.com/results?search_query=Dasara+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 31,
+        "title": "Virupaksha",
+        "genres": [
+            "Horror",
+            "Thriller"
+        ],
+        "language": "Telugu",
+        "overview": "A Telugu Horror movie titled Virupaksha. Key themes include black magic, village mystery, occult, suspense. Highly rated and popular in Telugu cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Virupaksha",
+        "trailer_url": "https://www.youtube.com/results?search_query=Virupaksha+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 32,
+        "title": "Waltair Veerayya",
+        "genres": [
+            "Action",
+            "Comedy"
+        ],
+        "language": "Telugu",
+        "overview": "A Telugu Action movie titled Waltair Veerayya. Key themes include fisherman, brother sentiment, smuggler, fun. Highly rated and popular in Telugu cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Waltair+Veerayya",
+        "trailer_url": "https://www.youtube.com/results?search_query=Waltair+Veerayya+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 33,
+        "title": "Veera Simha Reddy",
+        "genres": [
+            "Action",
+            "Drama"
+        ],
+        "language": "Telugu",
+        "overview": "A Telugu Action movie titled Veera Simha Reddy. Key themes include faction, sister sentiment, revenge, mass. Highly rated and popular in Telugu cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Veera+Simha+Reddy",
+        "trailer_url": "https://www.youtube.com/results?search_query=Veera+Simha+Reddy+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 34,
+        "title": "Guntur Kaaram",
+        "genres": [
+            "Action",
+            "Drama"
+        ],
+        "language": "Telugu",
+        "overview": "A Telugu Action movie titled Guntur Kaaram. Key themes include mother sentiment, trivikram style, mahesh babu. Highly rated and popular in Telugu cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Guntur+Kaaram",
+        "trailer_url": "https://www.youtube.com/results?search_query=Guntur+Kaaram+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 35,
+        "title": "Devara",
+        "genres": [
+            "Action",
+            "Drama"
+        ],
+        "language": "Telugu",
+        "overview": "A Telugu Action movie titled Devara. Key themes include sea, fear, corruption, ntr. Highly rated and popular in Telugu cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Devara",
+        "trailer_url": "https://www.youtube.com/results?search_query=Devara+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 36,
+        "title": "Game Changer",
+        "genres": [
+            "Political",
+            "Action"
+        ],
+        "language": "Telugu",
+        "overview": "A Telugu Political movie titled Game Changer. Key themes include election, corruption, shankar style, ram charan. Highly rated and popular in Telugu cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Game+Changer",
+        "trailer_url": "https://www.youtube.com/results?search_query=Game+Changer+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 37,
+        "title": "Og",
+        "genres": [
+            "Action",
+            "Crime"
+        ],
+        "language": "Telugu",
+        "overview": "A Telugu Action movie titled Og. Key themes include gangster, mumbai, samurai, pawan kalyan. Highly rated and popular in Telugu cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Og",
+        "trailer_url": "https://www.youtube.com/results?search_query=Og+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 38,
+        "title": "Business Man",
+        "genres": [
+            "Crime",
+            "Action"
+        ],
+        "language": "Telugu",
+        "overview": "A Telugu Crime movie titled Business Man. Key themes include mumbai mafia, absolute power, surya bhai. Highly rated and popular in Telugu cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Business+Man",
+        "trailer_url": "https://www.youtube.com/results?search_query=Business+Man+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 39,
+        "title": "Khaleja",
+        "genres": [
+            "Action",
+            "Comedy"
+        ],
+        "language": "Telugu",
+        "overview": "A Telugu Action movie titled Khaleja. Key themes include god, taxi driver, village savior, philosophy. Highly rated and popular in Telugu cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Khaleja",
+        "trailer_url": "https://www.youtube.com/results?search_query=Khaleja+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 40,
+        "title": "Athadu",
+        "genres": [
+            "Action",
+            "Thriller"
+        ],
+        "language": "Telugu",
+        "overview": "A Telugu Action movie titled Athadu. Key themes include assassin, family drama, hiding, village. Highly rated and popular in Telugu cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Athadu",
+        "trailer_url": "https://www.youtube.com/results?search_query=Athadu+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 41,
+        "title": "Leo",
+        "genres": [
+            "Action",
+            "Thriller"
+        ],
+        "language": "Tamil",
+        "overview": "A Tamil Action movie titled Leo. Key themes include LCU, gangster, hidden identity, hyena. Highly rated and popular in Tamil cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Leo",
+        "trailer_url": "https://www.youtube.com/results?search_query=Leo+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 42,
+        "title": "Vikram",
+        "genres": [
+            "Action",
+            "Thriller"
+        ],
+        "language": "Tamil",
+        "overview": "A Tamil Action movie titled Vikram. Key themes include LCU, drugs, black squad, ghost. Highly rated and popular in Tamil cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Vikram",
+        "trailer_url": "https://www.youtube.com/results?search_query=Vikram+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 43,
+        "title": "Jailer",
+        "genres": [
+            "Action",
+            "Comedy"
+        ],
+        "language": "Tamil",
+        "overview": "A Tamil Action movie titled Jailer. Key themes include retired cop, idol smuggling, family protection, mass. Highly rated and popular in Tamil cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Jailer",
+        "trailer_url": "https://www.youtube.com/results?search_query=Jailer+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 44,
+        "title": "Kaithi",
+        "genres": [
+            "Action",
+            "Thriller"
+        ],
+        "language": "Tamil",
+        "overview": "A Tamil Action movie titled Kaithi. Key themes include LCU, prisoner, night duty, biryani, drugs. Highly rated and popular in Tamil cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Kaithi",
+        "trailer_url": "https://www.youtube.com/results?search_query=Kaithi+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 45,
+        "title": "Master",
+        "genres": [
+            "Action",
+            "Drama"
+        ],
+        "language": "Tamil",
+        "overview": "A Tamil Action movie titled Master. Key themes include professor, alcohol, juvenile home, jd vs bhavani. Highly rated and popular in Tamil cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Master",
+        "trailer_url": "https://www.youtube.com/results?search_query=Master+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 46,
+        "title": "Thuppakki",
+        "genres": [
+            "Action",
+            "Thriller"
+        ],
+        "language": "Tamil",
+        "overview": "A Tamil Action movie titled Thuppakki. Key themes include sleeper cells, army man, mumbai, mind game. Highly rated and popular in Tamil cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Thuppakki",
+        "trailer_url": "https://www.youtube.com/results?search_query=Thuppakki+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 47,
+        "title": "Kaththi",
+        "genres": [
+            "Action",
+            "Drama"
+        ],
+        "language": "Tamil",
+        "overview": "A Tamil Action movie titled Kaththi. Key themes include farmers issue, corporate villain, double role, water. Highly rated and popular in Tamil cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Kaththi",
+        "trailer_url": "https://www.youtube.com/results?search_query=Kaththi+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 48,
+        "title": "Mersal",
+        "genres": [
+            "Action",
+            "Drama"
+        ],
+        "language": "Tamil",
+        "overview": "A Tamil Action movie titled Mersal. Key themes include medical mafia, magician, doctor, three roles. Highly rated and popular in Tamil cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Mersal",
+        "trailer_url": "https://www.youtube.com/results?search_query=Mersal+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 49,
+        "title": "Bigil",
+        "genres": [
+            "Sports",
+            "Action"
+        ],
+        "language": "Tamil",
+        "overview": "A Tamil Sports movie titled Bigil. Key themes include women football, gangster father, coach, motivation. Highly rated and popular in Tamil cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Bigil",
+        "trailer_url": "https://www.youtube.com/results?search_query=Bigil+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 50,
+        "title": "96",
+        "genres": [
+            "Romance",
+            "Drama"
+        ],
+        "language": "Tamil",
+        "overview": "A Tamil Romance movie titled 96. Key themes include school love, reunion, memories, night journey. Highly rated and popular in Tamil cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=96",
+        "trailer_url": "https://www.youtube.com/results?search_query=96+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 51,
+        "title": "Asuran",
+        "genres": [
+            "Action",
+            "Drama"
+        ],
+        "language": "Tamil",
+        "overview": "A Tamil Action movie titled Asuran. Key themes include caste oppression, land rights, father revenge, violent. Highly rated and popular in Tamil cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Asuran",
+        "trailer_url": "https://www.youtube.com/results?search_query=Asuran+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 52,
+        "title": "Vada Chennai",
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "language": "Tamil",
+        "overview": "A Tamil Crime movie titled Vada Chennai. Key themes include north chennai, carrom player, gangster wars, prison. Highly rated and popular in Tamil cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Vada+Chennai",
+        "trailer_url": "https://www.youtube.com/results?search_query=Vada+Chennai+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 53,
+        "title": "Ratsasan",
+        "genres": [
+            "Thriller",
+            "Crime"
+        ],
+        "language": "Tamil",
+        "overview": "A Tamil Thriller movie titled Ratsasan. Key themes include psycho killer, school girls, police, dark. Highly rated and popular in Tamil cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Ratsasan",
+        "trailer_url": "https://www.youtube.com/results?search_query=Ratsasan+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 54,
+        "title": "Soorarai Pottru",
+        "genres": [
+            "Drama",
+            "Biography"
+        ],
+        "language": "Tamil",
+        "overview": "A Tamil Drama movie titled Soorarai Pottru. Key themes include flight cost, airline business, struggle, dream. Highly rated and popular in Tamil cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Soorarai+Pottru",
+        "trailer_url": "https://www.youtube.com/results?search_query=Soorarai+Pottru+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 55,
+        "title": "Jai Bhim",
+        "genres": [
+            "Drama",
+            "Legal"
+        ],
+        "language": "Tamil",
+        "overview": "A Tamil Drama movie titled Jai Bhim. Key themes include tribal justice, lawyer, police brutality, court. Highly rated and popular in Tamil cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Jai+Bhim",
+        "trailer_url": "https://www.youtube.com/results?search_query=Jai+Bhim+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 56,
+        "title": "Super Deluxe",
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "language": "Tamil",
+        "overview": "A Tamil Drama movie titled Super Deluxe. Key themes include hyperlink story, transgender, aliens, infidelity. Highly rated and popular in Tamil cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Super+Deluxe",
+        "trailer_url": "https://www.youtube.com/results?search_query=Super+Deluxe+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 57,
+        "title": "Ponniyin Selvan 1",
+        "genres": [
+            "History",
+            "Drama"
+        ],
+        "language": "Tamil",
+        "overview": "A Tamil History movie titled Ponniyin Selvan 1. Key themes include chola dynasty, throne war, spies, epic. Highly rated and popular in Tamil cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Ponniyin+Selvan+1",
+        "trailer_url": "https://www.youtube.com/results?search_query=Ponniyin+Selvan+1+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 58,
+        "title": "Ponniyin Selvan 2",
+        "genres": [
+            "History",
+            "Drama"
+        ],
+        "language": "Tamil",
+        "overview": "A Tamil History movie titled Ponniyin Selvan 2. Key themes include love story, revenge, war, conclusion. Highly rated and popular in Tamil cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Ponniyin+Selvan+2",
+        "trailer_url": "https://www.youtube.com/results?search_query=Ponniyin+Selvan+2+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 59,
+        "title": "Mankatha",
+        "genres": [
+            "Action",
+            "Crime"
+        ],
+        "language": "Tamil",
+        "overview": "A Tamil Action movie titled Mankatha. Key themes include heist, betting, dirty cop, money, vinayak mahadev. Highly rated and popular in Tamil cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Mankatha",
+        "trailer_url": "https://www.youtube.com/results?search_query=Mankatha+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 60,
+        "title": "Baasha",
+        "genres": [
+            "Action",
+            "Crime"
+        ],
+        "language": "Tamil",
+        "overview": "A Tamil Action movie titled Baasha. Key themes include auto driver, don flashback, mumbai, brother sentiment. Highly rated and popular in Tamil cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Baasha",
+        "trailer_url": "https://www.youtube.com/results?search_query=Baasha+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 61,
+        "title": "Nayakan",
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "language": "Tamil",
+        "overview": "A Tamil Crime movie titled Nayakan. Key themes include slum lord, mumbai don, justice, classic. Highly rated and popular in Tamil cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Nayakan",
+        "trailer_url": "https://www.youtube.com/results?search_query=Nayakan+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 62,
+        "title": "Anniyan",
+        "genres": [
+            "Thriller",
+            "Action"
+        ],
+        "language": "Tamil",
+        "overview": "A Tamil Thriller movie titled Anniyan. Key themes include multiple personality disorder, garuda puranam, corruption. Highly rated and popular in Tamil cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Anniyan",
+        "trailer_url": "https://www.youtube.com/results?search_query=Anniyan+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 63,
+        "title": "Sivaji: The Boss",
+        "genres": [
+            "Action",
+            "Drama"
+        ],
+        "language": "Tamil",
+        "overview": "A Tamil Action movie titled Sivaji: The Boss. Key themes include black money, education, rich vs poor, style. Highly rated and popular in Tamil cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Sivaji:+The+Boss",
+        "trailer_url": "https://www.youtube.com/results?search_query=Sivaji:+The+Boss+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 64,
+        "title": "Enthiran",
+        "genres": [
+            "Sci-Fi",
+            "Action"
+        ],
+        "language": "Tamil",
+        "overview": "A Tamil Sci-Fi movie titled Enthiran. Key themes include robot, chitti, love, destruction, ai. Highly rated and popular in Tamil cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Enthiran",
+        "trailer_url": "https://www.youtube.com/results?search_query=Enthiran+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 65,
+        "title": "2.0",
+        "genres": [
+            "Sci-Fi",
+            "Action"
+        ],
+        "language": "Tamil",
+        "overview": "A Tamil Sci-Fi movie titled 2.0. Key themes include cell phone radiation, bird man, robot return. Highly rated and popular in Tamil cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=2.0",
+        "trailer_url": "https://www.youtube.com/results?search_query=2.0+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 66,
+        "title": "Thiruchitrambalam",
+        "genres": [
+            "Romance",
+            "Comedy"
+        ],
+        "language": "Tamil",
+        "overview": "A Tamil Romance movie titled Thiruchitrambalam. Key themes include delivery boy, best friend, simple life, family. Highly rated and popular in Tamil cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Thiruchitrambalam",
+        "trailer_url": "https://www.youtube.com/results?search_query=Thiruchitrambalam+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 67,
+        "title": "Love Today",
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "language": "Tamil",
+        "overview": "A Tamil Comedy movie titled Love Today. Key themes include phone exchange, secrets, modern relationship, funny. Highly rated and popular in Tamil cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Love+Today",
+        "trailer_url": "https://www.youtube.com/results?search_query=Love+Today+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 68,
+        "title": "Doctor",
+        "genres": [
+            "Comedy",
+            "Thriller"
+        ],
+        "language": "Tamil",
+        "overview": "A Tamil Comedy movie titled Doctor. Key themes include human trafficking, deadpan humor, family rescue. Highly rated and popular in Tamil cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Doctor",
+        "trailer_url": "https://www.youtube.com/results?search_query=Doctor+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 69,
+        "title": "Don",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "language": "Tamil",
+        "overview": "A Tamil Comedy movie titled Don. Key themes include college life, father sentiment, engineering, fun. Highly rated and popular in Tamil cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Don",
+        "trailer_url": "https://www.youtube.com/results?search_query=Don+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 70,
+        "title": "Maanaadu",
+        "genres": [
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "language": "Tamil",
+        "overview": "A Tamil Sci-Fi movie titled Maanaadu. Key themes include time loop, political assassination, repeat. Highly rated and popular in Tamil cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Maanaadu",
+        "trailer_url": "https://www.youtube.com/results?search_query=Maanaadu+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 71,
+        "title": "Jawan",
+        "genres": [
+            "Action",
+            "Thriller"
+        ],
+        "language": "Hindi",
+        "overview": "A Hindi Action movie titled Jawan. Key themes include women army, farmer issue, healthcare, double role. Highly rated and popular in Hindi cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Jawan",
+        "trailer_url": "https://www.youtube.com/results?search_query=Jawan+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 72,
+        "title": "Pathaan",
+        "genres": [
+            "Action",
+            "Thriller"
+        ],
+        "language": "Hindi",
+        "overview": "A Hindi Action movie titled Pathaan. Key themes include spy universe, virus, patriot, soldier. Highly rated and popular in Hindi cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Pathaan",
+        "trailer_url": "https://www.youtube.com/results?search_query=Pathaan+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 73,
+        "title": "Animal",
+        "genres": [
+            "Action",
+            "Drama"
+        ],
+        "language": "Hindi",
+        "overview": "A Hindi Action movie titled Animal. Key themes include toxic relationship, father son, violence, revenge. Highly rated and popular in Hindi cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Animal",
+        "trailer_url": "https://www.youtube.com/results?search_query=Animal+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 74,
+        "title": "Dangal",
+        "genres": [
+            "Biography",
+            "Sports"
+        ],
+        "language": "Hindi",
+        "overview": "A Hindi Biography movie titled Dangal. Key themes include wrestling, father daughters, gold medal, patriotism. Highly rated and popular in Hindi cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Dangal",
+        "trailer_url": "https://www.youtube.com/results?search_query=Dangal+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 75,
+        "title": "PK",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "language": "Hindi",
+        "overview": "A Hindi Comedy movie titled PK. Key themes include alien, religion, god men, funny question. Highly rated and popular in Hindi cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=PK",
+        "trailer_url": "https://www.youtube.com/results?search_query=PK+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 76,
+        "title": "3 Idiots",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "language": "Hindi",
+        "overview": "A Hindi Comedy movie titled 3 Idiots. Key themes include engineering, education system, friends, all is well. Highly rated and popular in Hindi cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=3+Idiots",
+        "trailer_url": "https://www.youtube.com/results?search_query=3+Idiots+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 77,
+        "title": "Sholay",
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "language": "Hindi",
+        "overview": "A Hindi Action movie titled Sholay. Key themes include gabbar singh, friendship, bandits, revenge. Highly rated and popular in Hindi cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Sholay",
+        "trailer_url": "https://www.youtube.com/results?search_query=Sholay+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 78,
+        "title": "Dilwale Dulhania Le Jayenge",
+        "genres": [
+            "Romance",
+            "Drama"
+        ],
+        "language": "Hindi",
+        "overview": "A Hindi Romance movie titled Dilwale Dulhania Le Jayenge. Key themes include euro trip, punjab, father approval, train. Highly rated and popular in Hindi cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Dilwale+Dulhania+Le+Jayenge",
+        "trailer_url": "https://www.youtube.com/results?search_query=Dilwale+Dulhania+Le+Jayenge+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 79,
+        "title": "Kabhi Khushi Kabhie Gham",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "language": "Hindi",
+        "overview": "A Hindi Drama movie titled Kabhi Khushi Kabhie Gham. Key themes include family values, rich poor gap, reunion, ego. Highly rated and popular in Hindi cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Kabhi+Khushi+Kabhie+Gham",
+        "trailer_url": "https://www.youtube.com/results?search_query=Kabhi+Khushi+Kabhie+Gham+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 80,
+        "title": "Yeh Jawaani Hai Deewani",
+        "genres": [
+            "Romance",
+            "Drama"
+        ],
+        "language": "Hindi",
+        "overview": "A Hindi Romance movie titled Yeh Jawaani Hai Deewani. Key themes include trekking, travel, career vs love, wedding. Highly rated and popular in Hindi cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Yeh+Jawaani+Hai+Deewani",
+        "trailer_url": "https://www.youtube.com/results?search_query=Yeh+Jawaani+Hai+Deewani+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 81,
+        "title": "Zindagi Na Milegi Dobara",
+        "genres": [
+            "Drama",
+            "Adventure"
+        ],
+        "language": "Hindi",
+        "overview": "A Hindi Drama movie titled Zindagi Na Milegi Dobara. Key themes include bachelor trip, spain, fear, friendship. Highly rated and popular in Hindi cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Zindagi+Na+Milegi+Dobara",
+        "trailer_url": "https://www.youtube.com/results?search_query=Zindagi+Na+Milegi+Dobara+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 82,
+        "title": "Queen",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "language": "Hindi",
+        "overview": "A Hindi Comedy movie titled Queen. Key themes include honeymoon alone, paris, self discovery, independence. Highly rated and popular in Hindi cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Queen",
+        "trailer_url": "https://www.youtube.com/results?search_query=Queen+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 83,
+        "title": "Gangs of Wasseypur",
+        "genres": [
+            "Crime",
+            "Action"
+        ],
+        "language": "Hindi",
+        "overview": "A Hindi Crime movie titled Gangs of Wasseypur. Key themes include coal mafia, revenge, generations, raw. Highly rated and popular in Hindi cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Gangs+of+Wasseypur",
+        "trailer_url": "https://www.youtube.com/results?search_query=Gangs+of+Wasseypur+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 84,
+        "title": "Stree",
+        "genres": [
+            "Horror",
+            "Comedy"
+        ],
+        "language": "Hindi",
+        "overview": "A Hindi Horror movie titled Stree. Key themes include witch, respect women, village mystery, funny. Highly rated and popular in Hindi cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Stree",
+        "trailer_url": "https://www.youtube.com/results?search_query=Stree+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 85,
+        "title": "Bhool Bhulaiyaa",
+        "genres": [
+            "Horror",
+            "Comedy"
+        ],
+        "language": "Hindi",
+        "overview": "A Hindi Horror movie titled Bhool Bhulaiyaa. Key themes include ghost dancer, psychological, palace, avni. Highly rated and popular in Hindi cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Bhool+Bhulaiyaa",
+        "trailer_url": "https://www.youtube.com/results?search_query=Bhool+Bhulaiyaa+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 86,
+        "title": "Drishyam",
+        "genres": [
+            "Thriller",
+            "Crime"
+        ],
+        "language": "Hindi",
+        "overview": "A Hindi Thriller movie titled Drishyam. Key themes include visual memory, police investigation, family protection. Highly rated and popular in Hindi cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Drishyam",
+        "trailer_url": "https://www.youtube.com/results?search_query=Drishyam+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 87,
+        "title": "Andhadhun",
+        "genres": [
+            "Thriller",
+            "Comedy"
+        ],
+        "language": "Hindi",
+        "overview": "A Hindi Thriller movie titled Andhadhun. Key themes include blind pianist, murder witness, twist, pune. Highly rated and popular in Hindi cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Andhadhun",
+        "trailer_url": "https://www.youtube.com/results?search_query=Andhadhun+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 88,
+        "title": "Tumbbad",
+        "genres": [
+            "Horror",
+            "Fantasy"
+        ],
+        "language": "Hindi",
+        "overview": "A Hindi Horror movie titled Tumbbad. Key themes include greed, gold, goddess, curse, rain. Highly rated and popular in Hindi cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Tumbbad",
+        "trailer_url": "https://www.youtube.com/results?search_query=Tumbbad+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 89,
+        "title": "Lagaan",
+        "genres": [
+            "Sports",
+            "Drama"
+        ],
+        "language": "Hindi",
+        "overview": "A Hindi Sports movie titled Lagaan. Key themes include british raj, cricket match, tax, village unity. Highly rated and popular in Hindi cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Lagaan",
+        "trailer_url": "https://www.youtube.com/results?search_query=Lagaan+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 90,
+        "title": "Swades",
+        "genres": [
+            "Drama",
+            "Social"
+        ],
+        "language": "Hindi",
+        "overview": "A Hindi Drama movie titled Swades. Key themes include nasa scientist, india village, electricity, roots. Highly rated and popular in Hindi cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Swades",
+        "trailer_url": "https://www.youtube.com/results?search_query=Swades+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 91,
+        "title": "Bajrangi Bhaijaan",
+        "genres": [
+            "Drama",
+            "Action"
+        ],
+        "language": "Hindi",
+        "overview": "A Hindi Drama movie titled Bajrangi Bhaijaan. Key themes include pakistan girl, hanuman devotee, border crossing. Highly rated and popular in Hindi cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Bajrangi+Bhaijaan",
+        "trailer_url": "https://www.youtube.com/results?search_query=Bajrangi+Bhaijaan+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 92,
+        "title": "Sultan",
+        "genres": [
+            "Sports",
+            "Drama"
+        ],
+        "language": "Hindi",
+        "overview": "A Hindi Sports movie titled Sultan. Key themes include wrestling, ego, comeback, love story. Highly rated and popular in Hindi cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Sultan",
+        "trailer_url": "https://www.youtube.com/results?search_query=Sultan+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 93,
+        "title": "War",
+        "genres": [
+            "Action",
+            "Thriller"
+        ],
+        "language": "Hindi",
+        "overview": "A Hindi Action movie titled War. Key themes include spy, teacher student, plastic surgery, twist. Highly rated and popular in Hindi cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=War",
+        "trailer_url": "https://www.youtube.com/results?search_query=War+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 94,
+        "title": "Tiger 3",
+        "genres": [
+            "Action",
+            "Thriller"
+        ],
+        "language": "Hindi",
+        "overview": "A Hindi Action movie titled Tiger 3. Key themes include spy universe, pakistan, family protection. Highly rated and popular in Hindi cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Tiger+3",
+        "trailer_url": "https://www.youtube.com/results?search_query=Tiger+3+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 95,
+        "title": "Brahmastra",
+        "genres": [
+            "Fantasy",
+            "Action"
+        ],
+        "language": "Hindi",
+        "overview": "A Hindi Fantasy movie titled Brahmastra. Key themes include astraverse, fire, love, ancient power. Highly rated and popular in Hindi cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Brahmastra",
+        "trailer_url": "https://www.youtube.com/results?search_query=Brahmastra+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 96,
+        "title": "12th Fail",
+        "genres": [
+            "Biography",
+            "Drama"
+        ],
+        "language": "Hindi",
+        "overview": "A Hindi Biography movie titled 12th Fail. Key themes include upsc exam, poverty, restart, inspiration. Highly rated and popular in Hindi cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=12th+Fail",
+        "trailer_url": "https://www.youtube.com/results?search_query=12th+Fail+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 97,
+        "title": "Article 370",
+        "genres": [
+            "Drama",
+            "Political"
+        ],
+        "language": "Hindi",
+        "overview": "A Hindi Drama movie titled Article 370. Key themes include kashmir, terrorism, constitution, action. Highly rated and popular in Hindi cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Article+370",
+        "trailer_url": "https://www.youtube.com/results?search_query=Article+370+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 98,
+        "title": "Fighter",
+        "genres": [
+            "Action",
+            "War"
+        ],
+        "language": "Hindi",
+        "overview": "A Hindi Action movie titled Fighter. Key themes include air force, pakistan, airstrike, patriotism. Highly rated and popular in Hindi cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Fighter",
+        "trailer_url": "https://www.youtube.com/results?search_query=Fighter+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 99,
+        "title": "Don 2",
+        "genres": [
+            "Action",
+            "Thriller"
+        ],
+        "language": "Hindi",
+        "overview": "A Hindi Action movie titled Don 2. Key themes include asia underworld, berlin, heist, srk. Highly rated and popular in Hindi cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Don+2",
+        "trailer_url": "https://www.youtube.com/results?search_query=Don+2+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 100,
+        "title": "Rockstar",
+        "genres": [
+            "Drama",
+            "Music"
+        ],
+        "language": "Hindi",
+        "overview": "A Hindi Drama movie titled Rockstar. Key themes include pain, fame, love, music journey. Highly rated and popular in Hindi cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Rockstar",
+        "trailer_url": "https://www.youtube.com/results?search_query=Rockstar+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 101,
+        "title": "Manjummel Boys",
+        "genres": [
+            "Survival",
+            "Thriller"
+        ],
+        "language": "Malayalam",
+        "overview": "A Malayalam Survival movie titled Manjummel Boys. Key themes include guna cave, friendship, rescue, kodaikanal. Highly rated and popular in Malayalam cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Manjummel+Boys",
+        "trailer_url": "https://www.youtube.com/results?search_query=Manjummel+Boys+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 102,
+        "title": "Premalu",
+        "genres": [
+            "Romance",
+            "Comedy"
+        ],
+        "language": "Malayalam",
+        "overview": "A Malayalam Romance movie titled Premalu. Key themes include hyderabad, software engineers, crush, funny. Highly rated and popular in Malayalam cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Premalu",
+        "trailer_url": "https://www.youtube.com/results?search_query=Premalu+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 103,
+        "title": "Bramayugam",
+        "genres": [
+            "Horror",
+            "Thriller"
+        ],
+        "language": "Malayalam",
+        "overview": "A Malayalam Horror movie titled Bramayugam. Key themes include black and white, mansion, goblin, madness. Highly rated and popular in Malayalam cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Bramayugam",
+        "trailer_url": "https://www.youtube.com/results?search_query=Bramayugam+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 104,
+        "title": "Aavesham",
+        "genres": [
+            "Action",
+            "Comedy"
+        ],
+        "language": "Malayalam",
+        "overview": "A Malayalam Action movie titled Aavesham. Key themes include bangalore, college ragging, gangster, ranga. Highly rated and popular in Malayalam cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Aavesham",
+        "trailer_url": "https://www.youtube.com/results?search_query=Aavesham+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 105,
+        "title": "2018",
+        "genres": [
+            "Thriller",
+            "Drama"
+        ],
+        "language": "Malayalam",
+        "overview": "A Malayalam Thriller movie titled 2018. Key themes include floods, kerala, rescue, humanity, real story. Highly rated and popular in Malayalam cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=2018",
+        "trailer_url": "https://www.youtube.com/results?search_query=2018+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 106,
+        "title": "Lucifer",
+        "genres": [
+            "Action",
+            "Political"
+        ],
+        "language": "Malayalam",
+        "overview": "A Malayalam Action movie titled Lucifer. Key themes include stephen nedumpally, illuminati, politics, mass. Highly rated and popular in Malayalam cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Lucifer",
+        "trailer_url": "https://www.youtube.com/results?search_query=Lucifer+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 107,
+        "title": "Drishyam",
+        "genres": [
+            "Thriller",
+            "Crime"
+        ],
+        "language": "Malayalam",
+        "overview": "A Malayalam Thriller movie titled Drishyam. Key themes include georgekutty, police station under construction, secret. Highly rated and popular in Malayalam cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Drishyam",
+        "trailer_url": "https://www.youtube.com/results?search_query=Drishyam+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 108,
+        "title": "Drishyam 2",
+        "genres": [
+            "Thriller",
+            "Crime"
+        ],
+        "language": "Malayalam",
+        "overview": "A Malayalam Thriller movie titled Drishyam 2. Key themes include court case, novel writer, twist, family. Highly rated and popular in Malayalam cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Drishyam+2",
+        "trailer_url": "https://www.youtube.com/results?search_query=Drishyam+2+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 109,
+        "title": "Kumbalangi Nights",
+        "genres": [
+            "Drama",
+            "Family"
+        ],
+        "language": "Malayalam",
+        "overview": "A Malayalam Drama movie titled Kumbalangi Nights. Key themes include four brothers, fishing village, love, dysfunctional. Highly rated and popular in Malayalam cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Kumbalangi+Nights",
+        "trailer_url": "https://www.youtube.com/results?search_query=Kumbalangi+Nights+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 110,
+        "title": "Bangalore Days",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "language": "Malayalam",
+        "overview": "A Malayalam Drama movie titled Bangalore Days. Key themes include cousins, city life, marriage, dreams. Highly rated and popular in Malayalam cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Bangalore+Days",
+        "trailer_url": "https://www.youtube.com/results?search_query=Bangalore+Days+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 111,
+        "title": "Premam",
+        "genres": [
+            "Romance",
+            "Drama"
+        ],
+        "language": "Malayalam",
+        "overview": "A Malayalam Romance movie titled Premam. Key themes include three stages of love, malar teacher, butterflies. Highly rated and popular in Malayalam cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Premam",
+        "trailer_url": "https://www.youtube.com/results?search_query=Premam+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 112,
+        "title": "Charlie",
+        "genres": [
+            "Adventure",
+            "Drama"
+        ],
+        "language": "Malayalam",
+        "overview": "A Malayalam Adventure movie titled Charlie. Key themes include nomad, free spirit, graphic artist, mystery. Highly rated and popular in Malayalam cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Charlie",
+        "trailer_url": "https://www.youtube.com/results?search_query=Charlie+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 113,
+        "title": "Maheshinte Prathikaaram",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "language": "Malayalam",
+        "overview": "A Malayalam Comedy movie titled Maheshinte Prathikaaram. Key themes include photographer, revenge without violence, shoes. Highly rated and popular in Malayalam cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Maheshinte+Prathikaaram",
+        "trailer_url": "https://www.youtube.com/results?search_query=Maheshinte+Prathikaaram+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 114,
+        "title": "Uyare",
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "language": "Malayalam",
+        "overview": "A Malayalam Drama movie titled Uyare. Key themes include acid attack, pilot dream, survival, toxic relation. Highly rated and popular in Malayalam cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Uyare",
+        "trailer_url": "https://www.youtube.com/results?search_query=Uyare+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 115,
+        "title": "The Great Indian Kitchen",
+        "genres": [
+            "Drama",
+            "Social"
+        ],
+        "language": "Malayalam",
+        "overview": "A Malayalam Drama movie titled The Great Indian Kitchen. Key themes include patriarchy, household chores, women rights. Highly rated and popular in Malayalam cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=The+Great+Indian+Kitchen",
+        "trailer_url": "https://www.youtube.com/results?search_query=The+Great+Indian+Kitchen+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 116,
+        "title": "Minnal Murali",
+        "genres": [
+            "Action",
+            "Fantasy"
+        ],
+        "language": "Malayalam",
+        "overview": "A Malayalam Action movie titled Minnal Murali. Key themes include superhero, lightning, village, villain. Highly rated and popular in Malayalam cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Minnal+Murali",
+        "trailer_url": "https://www.youtube.com/results?search_query=Minnal+Murali+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 117,
+        "title": "Thallumaala",
+        "genres": [
+            "Action",
+            "Comedy"
+        ],
+        "language": "Malayalam",
+        "overview": "A Malayalam Action movie titled Thallumaala. Key themes include fights, wedding, internet fame, style. Highly rated and popular in Malayalam cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Thallumaala",
+        "trailer_url": "https://www.youtube.com/results?search_query=Thallumaala+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 118,
+        "title": "Jana Gana Mana",
+        "genres": [
+            "Drama",
+            "Legal"
+        ],
+        "language": "Malayalam",
+        "overview": "A Malayalam Drama movie titled Jana Gana Mana. Key themes include courtroom, politics, media trial, twist. Highly rated and popular in Malayalam cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Jana+Gana+Mana",
+        "trailer_url": "https://www.youtube.com/results?search_query=Jana+Gana+Mana+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 119,
+        "title": "Hridayam",
+        "genres": [
+            "Romance",
+            "Drama"
+        ],
+        "language": "Malayalam",
+        "overview": "A Malayalam Romance movie titled Hridayam. Key themes include college, chennai, marriage, maturity. Highly rated and popular in Malayalam cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Hridayam",
+        "trailer_url": "https://www.youtube.com/results?search_query=Hridayam+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 120,
+        "title": "Kannur Squad",
+        "genres": [
+            "Crime",
+            "Thriller"
+        ],
+        "language": "Malayalam",
+        "overview": "A Malayalam Crime movie titled Kannur Squad. Key themes include police chase, investigation, team, road trip. Highly rated and popular in Malayalam cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Kannur+Squad",
+        "trailer_url": "https://www.youtube.com/results?search_query=Kannur+Squad+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 121,
+        "title": "KGF: Chapter 1",
+        "genres": [
+            "Action",
+            "Crime"
+        ],
+        "language": "Kannada",
+        "overview": "A Kannada Action movie titled KGF: Chapter 1. Key themes include gold mines, rocky bhai, promise to mother. Highly rated and popular in Kannada cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=KGF:+Chapter+1",
+        "trailer_url": "https://www.youtube.com/results?search_query=KGF:+Chapter+1+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 122,
+        "title": "KGF: Chapter 2",
+        "genres": [
+            "Action",
+            "Crime"
+        ],
+        "language": "Kannada",
+        "overview": "A Kannada Action movie titled KGF: Chapter 2. Key themes include adheera, prime minister, empire, ocean. Highly rated and popular in Kannada cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=KGF:+Chapter+2",
+        "trailer_url": "https://www.youtube.com/results?search_query=KGF:+Chapter+2+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 123,
+        "title": "Kantara",
+        "genres": [
+            "Thriller",
+            "Fantasy"
+        ],
+        "language": "Kannada",
+        "overview": "A Kannada Thriller movie titled Kantara. Key themes include bhootakola, land issue, forest officer, scream. Highly rated and popular in Kannada cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Kantara",
+        "trailer_url": "https://www.youtube.com/results?search_query=Kantara+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 124,
+        "title": "777 Charlie",
+        "genres": [
+            "Adventure",
+            "Drama"
+        ],
+        "language": "Kannada",
+        "overview": "A Kannada Adventure movie titled 777 Charlie. Key themes include dog, depression, travel, snow, emotional. Highly rated and popular in Kannada cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=777+Charlie",
+        "trailer_url": "https://www.youtube.com/results?search_query=777+Charlie+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 125,
+        "title": "Vikrant Rona",
+        "genres": [
+            "Fantasy",
+            "Thriller"
+        ],
+        "language": "Kannada",
+        "overview": "A Kannada Fantasy movie titled Vikrant Rona. Key themes include haunted village, police, jungle, mystery. Highly rated and popular in Kannada cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Vikrant+Rona",
+        "trailer_url": "https://www.youtube.com/results?search_query=Vikrant+Rona+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 126,
+        "title": "Sapta Sagaradaache Ello - Side A",
+        "genres": [
+            "Romance",
+            "Drama"
+        ],
+        "language": "Kannada",
+        "overview": "A Kannada Romance movie titled Sapta Sagaradaache Ello - Side A. Key themes include jail, lost love, cassette, ocean. Highly rated and popular in Kannada cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Sapta+Sagaradaache+Ello+-+Side+A",
+        "trailer_url": "https://www.youtube.com/results?search_query=Sapta+Sagaradaache+Ello+-+Side+A+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 127,
+        "title": "Garuda Gamana Vrishabha Vahana",
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "language": "Kannada",
+        "overview": "A Kannada Crime movie titled Garuda Gamana Vrishabha Vahana. Key themes include shiva, vishnu, mangalore, violence. Highly rated and popular in Kannada cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Garuda+Gamana+Vrishabha+Vahana",
+        "trailer_url": "https://www.youtube.com/results?search_query=Garuda+Gamana+Vrishabha+Vahana+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 128,
+        "title": "Ugramm",
+        "genres": [
+            "Action",
+            "Thriller"
+        ],
+        "language": "Kannada",
+        "overview": "A Kannada Action movie titled Ugramm. Key themes include srikanth, gangster, promise, violent. Highly rated and popular in Kannada cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Ugramm",
+        "trailer_url": "https://www.youtube.com/results?search_query=Ugramm+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 129,
+        "title": "Lucia",
+        "genres": [
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "language": "Kannada",
+        "overview": "A Kannada Sci-Fi movie titled Lucia. Key themes include lucid dreaming, pill, theatre usher, superstar. Highly rated and popular in Kannada cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Lucia",
+        "trailer_url": "https://www.youtube.com/results?search_query=Lucia+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 130,
+        "title": "Rangitaranga",
+        "genres": [
+            "Thriller",
+            "Mystery"
+        ],
+        "language": "Kannada",
+        "overview": "A Kannada Thriller movie titled Rangitaranga. Key themes include pregnant wife, kamarottu, ghost, novelist. Highly rated and popular in Kannada cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Rangitaranga",
+        "trailer_url": "https://www.youtube.com/results?search_query=Rangitaranga+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 131,
+        "title": "Mungaru Male",
+        "genres": [
+            "Romance",
+            "Drama"
+        ],
+        "language": "Kannada",
+        "overview": "A Kannada Romance movie titled Mungaru Male. Key themes include rain, rabbit, sacrifice, classic love. Highly rated and popular in Kannada cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Mungaru+Male",
+        "trailer_url": "https://www.youtube.com/results?search_query=Mungaru+Male+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 132,
+        "title": "Kirik Party",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "language": "Kannada",
+        "overview": "A Kannada Comedy movie titled Kirik Party. Key themes include college engineering, senior junior, election. Highly rated and popular in Kannada cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Kirik+Party",
+        "trailer_url": "https://www.youtube.com/results?search_query=Kirik+Party+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 133,
+        "title": "James",
+        "genres": [
+            "Action",
+            "Thriller"
+        ],
+        "language": "Kannada",
+        "overview": "A Kannada Action movie titled James. Key themes include security agency, mafia, soldier, puneeth. Highly rated and popular in Kannada cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=James",
+        "trailer_url": "https://www.youtube.com/results?search_query=James+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 134,
+        "title": "Robert",
+        "genres": [
+            "Action",
+            "Drama"
+        ],
+        "language": "Kannada",
+        "overview": "A Kannada Action movie titled Robert. Key themes include cook, gangster past, son sentiment. Highly rated and popular in Kannada cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Robert",
+        "trailer_url": "https://www.youtube.com/results?search_query=Robert+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 135,
+        "title": "Mufti",
+        "genres": [
+            "Action",
+            "Crime"
+        ],
+        "language": "Kannada",
+        "overview": "A Kannada Action movie titled Mufti. Key themes include undercover cop, don, bhairathi ranagal. Highly rated and popular in Kannada cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Mufti",
+        "trailer_url": "https://www.youtube.com/results?search_query=Mufti+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 136,
+        "title": "Inception",
+        "genres": [
+            "Sci-Fi",
+            "Action"
+        ],
+        "language": "English",
+        "overview": "A English Sci-Fi movie titled Inception. Key themes include dreams, heist, subconscious, totem. Highly rated and popular in English cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Inception",
+        "trailer_url": "https://www.youtube.com/results?search_query=Inception+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 137,
+        "title": "The Dark Knight",
+        "genres": [
+            "Action",
+            "Crime"
+        ],
+        "language": "English",
+        "overview": "A English Action movie titled The Dark Knight. Key themes include batman, joker, chaos, gotham. Highly rated and popular in English cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=The+Dark+Knight",
+        "trailer_url": "https://www.youtube.com/results?search_query=The+Dark+Knight+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 138,
+        "title": "Interstellar",
+        "genres": [
+            "Sci-Fi",
+            "Adventure"
+        ],
+        "language": "English",
+        "overview": "A English Sci-Fi movie titled Interstellar. Key themes include black hole, time relativity, father daughter, corn. Highly rated and popular in English cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Interstellar",
+        "trailer_url": "https://www.youtube.com/results?search_query=Interstellar+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 139,
+        "title": "Avengers: Endgame",
+        "genres": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "language": "English",
+        "overview": "A English Action movie titled Avengers: Endgame. Key themes include thanos, time travel, snap, assemble. Highly rated and popular in English cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Avengers:+Endgame",
+        "trailer_url": "https://www.youtube.com/results?search_query=Avengers:+Endgame+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 140,
+        "title": "Avengers: Infinity War",
+        "genres": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "language": "English",
+        "overview": "A English Action movie titled Avengers: Infinity War. Key themes include stones, snap, failure, sacrifice. Highly rated and popular in English cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Avengers:+Infinity+War",
+        "trailer_url": "https://www.youtube.com/results?search_query=Avengers:+Infinity+War+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 141,
+        "title": "Avatar",
+        "genres": [
+            "Sci-Fi",
+            "Adventure"
+        ],
+        "language": "English",
+        "overview": "A English Sci-Fi movie titled Avatar. Key themes include pandora, blue aliens, nature, war. Highly rated and popular in English cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Avatar",
+        "trailer_url": "https://www.youtube.com/results?search_query=Avatar+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 142,
+        "title": "Avatar: The Way of Water",
+        "genres": [
+            "Sci-Fi",
+            "Adventure"
+        ],
+        "language": "English",
+        "overview": "A English Sci-Fi movie titled Avatar: The Way of Water. Key themes include oceans, whales, family protection. Highly rated and popular in English cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Avatar:+The+Way+of+Water",
+        "trailer_url": "https://www.youtube.com/results?search_query=Avatar:+The+Way+of+Water+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 143,
+        "title": "Titanic",
+        "genres": [
+            "Romance",
+            "Drama"
+        ],
+        "language": "English",
+        "overview": "A English Romance movie titled Titanic. Key themes include shipwreck, iceberg, jack and rose, drawing. Highly rated and popular in English cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Titanic",
+        "trailer_url": "https://www.youtube.com/results?search_query=Titanic+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 144,
+        "title": "The Matrix",
+        "genres": [
+            "Sci-Fi",
+            "Action"
+        ],
+        "language": "English",
+        "overview": "A English Sci-Fi movie titled The Matrix. Key themes include simulation, red pill, neo, bullets. Highly rated and popular in English cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=The+Matrix",
+        "trailer_url": "https://www.youtube.com/results?search_query=The+Matrix+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 145,
+        "title": "The Godfather",
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "language": "English",
+        "overview": "A English Crime movie titled The Godfather. Key themes include mafia family, offer you cant refuse, corleone. Highly rated and popular in English cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=The+Godfather",
+        "trailer_url": "https://www.youtube.com/results?search_query=The+Godfather+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 146,
+        "title": "Pulp Fiction",
+        "genres": [
+            "Crime",
+            "Thriller"
+        ],
+        "language": "English",
+        "overview": "A English Crime movie titled Pulp Fiction. Key themes include non-linear, burger, dance, briefcase. Highly rated and popular in English cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Pulp+Fiction",
+        "trailer_url": "https://www.youtube.com/results?search_query=Pulp+Fiction+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 147,
+        "title": "The Shawshank Redemption",
+        "genres": [
+            "Drama",
+            "Crime"
+        ],
+        "language": "English",
+        "overview": "A English Drama movie titled The Shawshank Redemption. Key themes include prison escape, hope, friendship, rain. Highly rated and popular in English cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=The+Shawshank+Redemption",
+        "trailer_url": "https://www.youtube.com/results?search_query=The+Shawshank+Redemption+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 148,
+        "title": "Fight Club",
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "language": "English",
+        "overview": "A English Drama movie titled Fight Club. Key themes include soap, insomnia, underground club, twist. Highly rated and popular in English cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Fight+Club",
+        "trailer_url": "https://www.youtube.com/results?search_query=Fight+Club+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 149,
+        "title": "Forrest Gump",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "language": "English",
+        "overview": "A English Drama movie titled Forrest Gump. Key themes include running, chocolates, history, innocence. Highly rated and popular in English cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Forrest+Gump",
+        "trailer_url": "https://www.youtube.com/results?search_query=Forrest+Gump+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 150,
+        "title": "The Lion King",
+        "genres": [
+            "Animation",
+            "Drama"
+        ],
+        "language": "English",
+        "overview": "A English Animation movie titled The Lion King. Key themes include simba, mufasa, hakuna matata, circle of life. Highly rated and popular in English cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=The+Lion+King",
+        "trailer_url": "https://www.youtube.com/results?search_query=The+Lion+King+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 151,
+        "title": "Joker",
+        "genres": [
+            "Drama",
+            "Crime"
+        ],
+        "language": "English",
+        "overview": "A English Drama movie titled Joker. Key themes include mental illness, society, clown, stairs. Highly rated and popular in English cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Joker",
+        "trailer_url": "https://www.youtube.com/results?search_query=Joker+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 152,
+        "title": "Barbie",
+        "genres": [
+            "Comedy",
+            "Fantasy"
+        ],
+        "language": "English",
+        "overview": "A English Comedy movie titled Barbie. Key themes include dolls, real world, patriarchy, pink. Highly rated and popular in English cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Barbie",
+        "trailer_url": "https://www.youtube.com/results?search_query=Barbie+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 153,
+        "title": "Oppenheimer",
+        "genres": [
+            "Drama",
+            "History"
+        ],
+        "language": "English",
+        "overview": "A English Drama movie titled Oppenheimer. Key themes include atomic bomb, physics, trial, destroyer of worlds. Highly rated and popular in English cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Oppenheimer",
+        "trailer_url": "https://www.youtube.com/results?search_query=Oppenheimer+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 154,
+        "title": "Dune: Part One",
+        "genres": [
+            "Sci-Fi",
+            "Adventure"
+        ],
+        "language": "English",
+        "overview": "A English Sci-Fi movie titled Dune: Part One. Key themes include spice, desert, worms, paul atreides. Highly rated and popular in English cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Dune:+Part+One",
+        "trailer_url": "https://www.youtube.com/results?search_query=Dune:+Part+One+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 155,
+        "title": "Dune: Part Two",
+        "genres": [
+            "Sci-Fi",
+            "Action"
+        ],
+        "language": "English",
+        "overview": "A English Sci-Fi movie titled Dune: Part Two. Key themes include holy war, prophecy, sand worms, emperor. Highly rated and popular in English cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Dune:+Part+Two",
+        "trailer_url": "https://www.youtube.com/results?search_query=Dune:+Part+Two+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 156,
+        "title": "Spider-Man: No Way Home",
+        "genres": [
+            "Action",
+            "Fantasy"
+        ],
+        "language": "English",
+        "overview": "A English Action movie titled Spider-Man: No Way Home. Key themes include multiverse, three spiders, forgetting. Highly rated and popular in English cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Spider-Man:+No+Way+Home",
+        "trailer_url": "https://www.youtube.com/results?search_query=Spider-Man:+No+Way+Home+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 157,
+        "title": "Top Gun: Maverick",
+        "genres": [
+            "Action",
+            "Drama"
+        ],
+        "language": "English",
+        "overview": "A English Action movie titled Top Gun: Maverick. Key themes include fighter jets, speed, mission, old school. Highly rated and popular in English cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Top+Gun:+Maverick",
+        "trailer_url": "https://www.youtube.com/results?search_query=Top+Gun:+Maverick+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 158,
+        "title": "Mission: Impossible - Dead Reckoning",
+        "genres": [
+            "Action",
+            "Thriller"
+        ],
+        "language": "English",
+        "overview": "A English Action movie titled Mission: Impossible - Dead Reckoning. Key themes include ai entity, stunts, train, ethan hunt. Highly rated and popular in English cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Mission:+Impossible+-+Dead+Reckoning",
+        "trailer_url": "https://www.youtube.com/results?search_query=Mission:+Impossible+-+Dead+Reckoning+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 159,
+        "title": "John Wick 4",
+        "genres": [
+            "Action",
+            "Thriller"
+        ],
+        "language": "English",
+        "overview": "A English Action movie titled John Wick 4. Key themes include assassin, high table, guns, dogs. Highly rated and popular in English cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=John+Wick+4",
+        "trailer_url": "https://www.youtube.com/results?search_query=John+Wick+4+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 160,
+        "title": "Everything Everywhere All At Once",
+        "genres": [
+            "Sci-Fi",
+            "Adventure"
+        ],
+        "language": "English",
+        "overview": "A English Sci-Fi movie titled Everything Everywhere All At Once. Key themes include multiverse, bagel, mother daughter, kung fu. Highly rated and popular in English cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Everything+Everywhere+All+At+Once",
+        "trailer_url": "https://www.youtube.com/results?search_query=Everything+Everywhere+All+At+Once+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 161,
+        "title": "Parasite",
+        "genres": [
+            "Thriller",
+            "Drama"
+        ],
+        "language": "English",
+        "overview": "A English Thriller movie titled Parasite. Key themes include rich vs poor, basement, smell, korean. Highly rated and popular in English cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Parasite",
+        "trailer_url": "https://www.youtube.com/results?search_query=Parasite+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 162,
+        "title": "Mad Max: Fury Road",
+        "genres": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "language": "English",
+        "overview": "A English Action movie titled Mad Max: Fury Road. Key themes include desert chase, guitar, trucks, survival. Highly rated and popular in English cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Mad+Max:+Fury+Road",
+        "trailer_url": "https://www.youtube.com/results?search_query=Mad+Max:+Fury+Road+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 163,
+        "title": "Gladiator",
+        "genres": [
+            "Action",
+            "Drama"
+        ],
+        "language": "English",
+        "overview": "A English Action movie titled Gladiator. Key themes include rome, general, arena, vengeance. Highly rated and popular in English cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Gladiator",
+        "trailer_url": "https://www.youtube.com/results?search_query=Gladiator+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 164,
+        "title": "Jurassic Park",
+        "genres": [
+            "Sci-Fi",
+            "Adventure"
+        ],
+        "language": "English",
+        "overview": "A English Sci-Fi movie titled Jurassic Park. Key themes include dinosaurs, amber, island, t-rex. Highly rated and popular in English cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Jurassic+Park",
+        "trailer_url": "https://www.youtube.com/results?search_query=Jurassic+Park+trailer",
+        "rating": 9.0
+    },
+    {
+        "id": 165,
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "genres": [
+            "Fantasy",
+            "Adventure"
+        ],
+        "language": "English",
+        "overview": "A English Fantasy movie titled Harry Potter and the Sorcerer's Stone. Key themes include wizard, hogwarts, magic, voldemort. Highly rated and popular in English cinema.",
+        "poster_url": "https://placehold.co/300x450/111/fff?text=Harry+Potter+and+the+Sorcerer's+Stone",
+        "trailer_url": "https://www.youtube.com/results?search_query=Harry+Potter+and+the+Sorcerer's+Stone+trailer",
+        "rating": 9.0
+    }
+]

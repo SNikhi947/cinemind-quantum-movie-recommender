@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>CineMind Dashboard</title>
+  <link rel="stylesheet" href="/static/style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+
+<body>
+<div class="bg-cinema"></div>
+
+<nav class="top-nav">
+  <div class="logo">CINEMIND<span> Quantum AI</span></div>
+  <a href="/" class="nav-btn">Home</a>
+</nav>
+
+<section class="dashboard-wrapper">
+
+  <h2 class="section-title">Discover Movies Intelligently</h2>
+
+  <!-- GENRE -->
+  <div class="panel">
+    <p class="panel-title">Choose Genre</p>
+    <div class="pill-group">
+      <button class="genre-pill active" onclick="selectGenre(this,'All')">All</button>
+      <button class="genre-pill" onclick="selectGenre(this,'Action')">Action</button>
+      <button class="genre-pill" onclick="selectGenre(this,'Romance')">Romance</button>
+      <button class="genre-pill" onclick="selectGenre(this,'Comedy')">Comedy</button>
+      <button class="genre-pill" onclick="selectGenre(this,'Sci-Fi')">Sci-Fi</button>
+      <button class="genre-pill" onclick="selectGenre(this,'Thriller')">Thriller</button>
+    </div>
+  </div>
+
+  <!-- LANGUAGE -->
+  <div class="panel">
+    <p class="panel-title">Choose Language</p>
+    <div class="pill-group">
+      <button class="lang-pill active" onclick="selectLanguage(this,'All')">Any</button>
+      <button class="lang-pill" onclick="selectLanguage(this,'Telugu')">Telugu</button>
+      <button class="lang-pill" onclick="selectLanguage(this,'Tamil')">Tamil</button>
+      <button class="lang-pill" onclick="selectLanguage(this,'Hindi')">Hindi</button>
+      <button class="lang-pill" onclick="selectLanguage(this,'English')">English</button>
+    </div>
+  </div>
+
+  <!-- MOOD + PROMPT -->
+  <div class="panel">
+    <p class="panel-title">Describe Mood & Story</p>
+
+    <label class="slider-label">
+      Exploration Level: <span id="moodValue">50</span>%
+    </label>
+    <input type="range" id="moodSlider" min="1" max="100" value="50"
+           oninput="document.getElementById('moodValue').innerText=this.value">
+
+    <div class="input-box">
+      <input id="promptInput" type="text" placeholder="Example: A futuristic love story with action">
+      <i class="fa-solid fa-microphone" onclick="startVoice()"></i>
+    </div>
+  </div>
+
+  <!-- QUANTUM + RUN -->
+  <div class="action-panel">
+    <label class="quantum-toggle">
+      <input type="checkbox" id="quantumToggle" checked>
+      Quantum Exploration Mode (Experimental)
+    </label>
+
+    <button class="run-btn" onclick="runMLRecommendation()">
+      Analyze & Recommend
+    </button>
+  </div>
+
+</section>
+
+<!-- CHATBOT -->
+<div id="chatbot-icon" onclick="toggleChat()">
+  <i class="fa-solid fa-robot"></i>
+</div>
+
+<div id="chatbot-window">
+  <div class="chat-header">
+    CineMind Assistant
+    <span onclick="toggleChat()">×</span>
+  </div>
+  <div id="chat-history" class="chat-body">
+    <div class="bot-msg">Hi 👋 Ask me about genres, moods, or recommendations.</div>
+  </div>
+  <div class="chat-input">
+    <input id="chatInput" placeholder="Ask something..." onkeypress="if(event.key==='Enter') sendChat()">
+    <button onclick="sendChat()">Send</button>
+  </div>
+</div>
+<div id="loadingOverlay">
+  <div class="spinner"></div>
+  <div class="loading-text">Recommending movies...</div>
+</div>
+
+<script src="/static/script.js"></script>
+</body>
+</html>
